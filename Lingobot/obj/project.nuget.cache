@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgxAImDV7Fuoavtd+mWcqZ/dlYjPnO7T8SqCPO0PtVUysKycPUuoHe0UGvk3w2UL9wx6JK/EKLDh5qKqqc/cVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omozm\\Lingobot\\Lingobot\\Lingobot\\Lingobot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omozm\\.nuget\\packages\\discord.net\\3.6.1\\discord.net.3.6.1.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\discord.net.commands\\3.6.1\\discord.net.commands.3.6.1.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\discord.net.core\\3.6.1\\discord.net.core.3.6.1.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\discord.net.interactions\\3.6.1\\discord.net.interactions.3.6.1.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\discord.net.rest\\3.6.1\\discord.net.rest.3.6.1.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\discord.net.webhook\\3.6.1\\discord.net.webhook.3.6.1.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\discord.net.websocket\\3.6.1\\discord.net.websocket.3.6.1.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\omozm\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
